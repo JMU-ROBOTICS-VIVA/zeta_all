@@ -1,0 +1,15 @@
+[submodule "zeta_competition"]
+	path = zeta_competition
+	url = https://github.com/JMU-ROBOTICS-VIVA/zeta_competition
+[submodule "jmu_turtlebot3_bringup"]
+	path = jmu_turtlebot3_bringup
+	url = https://github.com/JMU-ROBOTICS-VIVA/jmu_turtlebot3_bringup
+[submodule "jmu_ros2_util"]
+	path = jmu_ros2_util
+	url = https://github.com/JMU-ROBOTICS-VIVA/jmu_ros2_util
+[submodule "ros2_aruco"]
+	path = ros2_aruco
+	url = https://github.com/JMU-ROBOTICS-VIVA/ros2_aruco
+[submodule "transform_service"]
+	path = transform_service
+	url = https://github.com/JMU-ROBOTICS-VIVA/transform_service
